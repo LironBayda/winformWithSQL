@@ -1,0 +1,7 @@
+C:\Users\liron\Source\Repos\winformWithSQL\winformWithSQL\bin\Debug\winformWithSQL.exe.config
+C:\Users\liron\Source\Repos\winformWithSQL\winformWithSQL\bin\Debug\winformWithSQL.exe
+C:\Users\liron\Source\Repos\winformWithSQL\winformWithSQL\bin\Debug\winformWithSQL.pdb
+C:\Users\liron\Source\Repos\winformWithSQL\winformWithSQL\obj\Debug\winformWithSQL.csprojAssemblyReference.cache
+C:\Users\liron\Source\Repos\winformWithSQL\winformWithSQL\obj\Debug\winformWithSQL.csproj.CoreCompileInputs.cache
+C:\Users\liron\Source\Repos\winformWithSQL\winformWithSQL\obj\Debug\winformWithSQL.exe
+C:\Users\liron\Source\Repos\winformWithSQL\winformWithSQL\obj\Debug\winformWithSQL.pdb

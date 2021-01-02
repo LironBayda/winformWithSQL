@@ -1,0 +1,10 @@
+C:\Users\liron\Source\Repos\ordersystemmengment\ordersystemmengment\bin\Debug\ordersystemmengment.exe.config
+C:\Users\liron\Source\Repos\ordersystemmengment\ordersystemmengment\bin\Debug\ordersystemmengment.exe
+C:\Users\liron\Source\Repos\ordersystemmengment\ordersystemmengment\bin\Debug\ordersystemmengment.pdb
+C:\Users\liron\Source\Repos\ordersystemmengment\ordersystemmengment\obj\Debug\ordersystemmengment.csprojAssemblyReference.cache
+C:\Users\liron\Source\Repos\ordersystemmengment\ordersystemmengment\obj\Debug\ordersystemmengment.orderMengmentSystem.resources
+C:\Users\liron\Source\Repos\ordersystemmengment\ordersystemmengment\obj\Debug\ordersystemmengment.Properties.Resources.resources
+C:\Users\liron\Source\Repos\ordersystemmengment\ordersystemmengment\obj\Debug\ordersystemmengment.csproj.GenerateResource.cache
+C:\Users\liron\Source\Repos\ordersystemmengment\ordersystemmengment\obj\Debug\ordersystemmengment.csproj.CoreCompileInputs.cache
+C:\Users\liron\Source\Repos\ordersystemmengment\ordersystemmengment\obj\Debug\ordersystemmengment.exe
+C:\Users\liron\Source\Repos\ordersystemmengment\ordersystemmengment\obj\Debug\ordersystemmengment.pdb
